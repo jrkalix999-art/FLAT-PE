@@ -1,0 +1,9 @@
+*.jks
+*.keystore
+build/
+.gradle/
+local.properties
+android.jar
+framework-res.apk
+*.apk
+*.dex
